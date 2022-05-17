@@ -1,5 +1,5 @@
 if (navigator.serviceWorker) {
-	navigator.serviceWorker.register("/sw.js");
+	navigator.serviceWorker.register("https://brandonalex24.github.io/practica1/sw.js");
 }
 $(document).ready(function(){
 	console.log("JQuery funcionando...");
