@@ -1,0 +1,36 @@
+{
+    "short_name": "IOT",   
+    "name": "IOT",   
+    "theme-color":"blue",
+    "theme_color": "blue",
+    "background-color":"blue",
+    "display": "standalone",
+    "orientation": "landscape",
+    "start_url": "index.html",
+    "icons": [{
+        "src": "icons/g1.png",
+        "type": "image/png",
+        "sizes": "72x72"
+        }, {
+        "src": "icons/g2.png",
+        "type": "image/png",
+        "sizes": "64x64"
+        }, {
+        "src": "icons/g3.png",
+        "type": "image/png",
+        "sizes": "48x48"
+        }, {
+        "src": "icons/g4.png",
+        "type": "image/png",
+        "sizes": "128x128"
+        }, {
+        "src": "icons/g5.png",
+        "type": "image/png",
+        "sizes": "32x32"
+        }, {
+            "src": "icons/g7.png",
+            "type": "image/png",
+            "sizes": "144x144"
+            }
+    ]
+    }
